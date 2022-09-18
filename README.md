@@ -1,4 +1,10 @@
 # `Hello, World!`
+<p align="center">
+  <a align="center" href="">
+  <img align="center" src="https://komarev.com/ghpvc/?username=ShrishRajGupta"  width=200 />
+</a>
+  <h2 align="center">Hi there 👋</h2>
+</p>
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
