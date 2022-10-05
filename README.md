@@ -2,10 +2,10 @@
 <p align="left"><img src="https://steamuserimages-a.akamaihd.net/ugc/961982230388472124/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="900px"></p>
 <h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px" height="40px">  𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
 <br>
-# `Hello, World!`
-<p align="center">
+
+<!--<p align="center">
   <h2 align="center">Hi there 👋</h2>
-</p>
+</p> -->
 
 <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" alt="mona whisper" /></p>
 
