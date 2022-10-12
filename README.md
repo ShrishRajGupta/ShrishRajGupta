@@ -14,7 +14,6 @@
   </a>
 </p>
 
-So, who I am
 - 🎓 Pursuing B.Tech in Electronics and Communication Engineering from [MNNIT](http://www.mnnit.ac.in/)
 - 🔭 I'm a web developer, Linux and opensource lover.
 - 📫 You can contact me and see my [linkedin profile](https://www.linkedin.com/in/shrish-raj-gupta-869525223/).<br><br>
