@@ -1,0 +1,18 @@
+*.out
+*.txt
+.gitignore
+/os
+/AbhishekTodolist/
+AbhishekTodolist/
+/AbhishekTodolist
+/CC\ MNNIT
+/stack
+/queue
+/abhishek_Notes
+/ggf\ a
+/linked_list
+*.zip
+*.vscode
+*.pdf
+/cpp
+trie2.cpp
