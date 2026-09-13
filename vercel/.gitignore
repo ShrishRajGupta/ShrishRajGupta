@@ -1,0 +1,4 @@
+.vercel
+.playwright-mcp/
+.DS_Store
+.env*
